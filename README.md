@@ -35,3 +35,4 @@ permission_handler
 shared_preferences
 Contribuciones
 Las imagenes de evidencia en otros dispositivos se encuentran en la carpeta assets/dispostivos.
+El archivo de apk se encuentra en la carpeta: build/app/outputs/flutter-apk/app-release.apk
