@@ -35,4 +35,3 @@ permission_handler
 shared_preferences
 Contribuciones
 Las imagenes de evidencia en otros dispositivos se encuentran en la carpeta assets/dispostivos.
-
